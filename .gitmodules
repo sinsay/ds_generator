@@ -1,0 +1,4 @@
+[submodule "generator/common"]
+	path = generator/common
+	url = https://github.com/sinsay/ds_define
+	branch = main
